@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\NewExpense"
   ],
-  "SelectedNode": "\\src\\components\\UI",
+  "SelectedNode": "\\src\\components\\NewExpense\\ExpenseForm.css",
   "PreviewInSolutionExplorer": false
 }
